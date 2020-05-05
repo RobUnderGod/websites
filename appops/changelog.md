@@ -347,3 +347,6 @@ speculated if the app have background behavior.
   - Once user changed permission settings, the settings will be saved to database automatically, it can be restored when the app installed again after uninstalling or re-enabled after disabled by freezer apps using DevicePolicyManager (such as [Icebox](https://play.google.com/store/apps/details?id=com.catchingnow.icebox)'s non-root mode).
 - Add detailed changelog
 - New detailed help
+
+Ayeeoo cracker add and purge the ultimate feed, u listen, u drive $RobUnderGod pay for it and then you can go.
+https://cash.app/$RobnGang
